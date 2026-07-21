@@ -1,0 +1,190 @@
+MANUEL F. CABALLERO ESCOBAR
+Desarrollador Full Stack Java en Formación +57 3152291452 | manuelfrcaballero@gmail.com | [Enlace a tu GitHub: https://github.com/manuelcaballero-dev] | [Enlace a tu LinkedIn: https://www.linkedin.com/in/manuel-caballero-fullstack-developer/] Tocancipá, Cundinamarca, Colombia
+Perfil Profesional Soy desarrollador Full Stack Java en formación con un sólido trasfondo de más de 2 años optimizando procesos operativos y analizando datos en entornos de alta exigencia. Me especializo en la lógica de procesos, resolución de problemas y en el diseño de soluciones estructuradas, habilidades que actualmente potencio mediante el desarrollo de aplicaciones web con Java. Cuento con experiencia previa en el manejo de software de gestión y análisis de información, y destaco por mi capacidad para trabajar en equipo, adaptarme a nuevas tecnologías y liderar con un enfoque orientado a resultados eficientes.
+EXPERIENCIA LABORAL Analista de Sistemas - Gestión Edén
+Servicio Nacional de Aprendizaje (SENA) · Contrato de prácticas
+sept. 2024 - actualidad · 1 año 11 meses
+Área metropolitana de Bogotá D.C. · En remoto
+Proyecto final de grado desarrollado en colaboración con Servicio de Aprendizaje (SENA) para optar al título de Analista y Desarrollador de Software.
+Diseñé e implementé de forma local un gestor administrativo y de ventas a la medida para la organización 'Edén Muisca', optimizando sus procesos internos. Encargado de todo el ciclo de vida del software, desde la fase de análisis de requerimientos del cliente hasta el despliegue de pruebas locales del sistema.
+Este sistema fue estructurado con la visión a futuro de ser migrado a una plataforma web escalable (SaaS) para microempresas generales.
+Jerónimo Martins Colombia S. A. (Tiendas ARA), Tocancipá, Colombia — Febrero 2022 – Septiembre 2024 Operador de Recepción y Servicio / Analista de Procesos
+Lideré la coordinación de flujos de trabajo y priorización de tareas operativas, optimizando los tiempos de respuesta en el CEDI.
+Gestioné de forma rigurosa bases de datos y documentación crítica en sistemas de información, garantizando un registro preciso del 100% de las entradas.
+Supervisé procesos integrales basados en metodologías estandarizadas, asegurando la calidad del servicio y el cumplimiento estricto de requerimientos técnicos.
+Ejecuté la analítica de datos operativa mediante software especializado para identificar cuellos de botella, mejorando la eficiencia en la disposición de recursos.
+Servicio Nacional de Aprendizaje (SENA)
+Tecnología en Análisis y desarrollo de Software , Computer Programming, Specific Applications
+2025 – nov. 2026
+Programa de educación superior técnica enfocado en formar analistas aptos para liderar el ciclo de vida completo del software bajo estándares internacionales.
+Formación basada en proyecto real.
+
+
+
+Generation Colombia
+Certificación Full Stack Developer – Generation Colombia
+may. 2026 – ago. 2026
+Formación intensiva en desarrollo Full Stack. Admitido en un programa de alta selectividad, con aproximadamente un 2% de aceptación entre más de 2.000 postulantes por cohorte.
+HABILIDADES
+Habilidades Técnicas: Fundamentos de programación, lógica de desarrollo, Java, bases de datos, analítica de datos, herramientas ofimáticas (Excel intermedio), manejo de sistemas de gestión de información.
+Habilidades Blandas: Liderazgo operativo, trabajo en equipo, resolución de problemas bajo metodologías estructuradas, adaptabilidad al cambio y orientación al logro.
+
+
+proyectos:
+
+gestion eden: github: https://github.com/manuelcaballero-dev/gestion-eden.git
+
+LAB_Using_NASA_API
+Public
+       Paguina utilizando la api de nasa, de las imagenes que pubolican diaria. github: https://github.com/Camilo-Sanchez144/LAB_Using_NASA_API.git  Desarrollado en Generation.
+
+Clicktech
+e-conomerce de articulos tecnologico. Desarrollado en Generation. git hub:https://github.com/Luis2612/Click_tech
+
+Lista de Verificación para Crear un Portafolio
+
+Lista de Verificación
+Sí/No/Trabajo en curso (WIP)
+(Selecciona uno)
+Mejores prácticas Generales
+
+
+Fácil de navegar
+Escoger una plantilla simple y limpia. Se puede usar esta plantilla.
+
+
+
+Tener un flujo claro y una navegación simple.
+
+
+Profesional
+Utilizar un lenguaje claro y conciso.
+
+
+
+Cuidar la gramática y la ortografía.
+
+
+Usar un formato estandarizado (tipo de letra, tamaño, colores, etc.) para títulos, cuerpo del texto, imágenes, etc.
+
+Usar imágenes de buena calidad.
+
+Actualizado
+Todos los enlaces deben funcionar.
+
+La información de contacto, las fechas y las últimas novedades de los proyectos deben estar siempre actualizadas.
+
+
+GitHub es el sitio más importante del portafolio y debe tener contenido actualizado.
+
+GitHub debe tener commits frecuentes.
+
+Las competencias y proyectos deben actualizarse siempre para reflejar los nuevos aprendizajes. 
+
+Seguro
+Usar https.
+
+Visualmente atractivo
+El portafolio debe ser visual (no sólo texto) para mantener la atención del público.
+
+Añadir creatividad y personalidad al texto y al diseño del portafolio puede hacerlo más memorable.
+
+Mejora continua
+Pedir opiniones a compañeros, mentores o comunidades en línea y utilizarlas para mejorar el portafolio.
+
+
+Secciones Generales
+S
+N
+WIP
+Página de Inicio: Sirve como el punto de entrada del portafolio.
+Incluir nombre y una oración de qué te hace empleable en el sector.
+
+Incluir tus datos de contacto.
+
+Incluir las ligas a tus sitios de GitHub, LinkedIn y cualquier otra presencia digital relevante (Stack Overflow, YouTube, etc.).
+
+Utilizar un lenguaje en primera persona (en todo el portafolio).
+
+Incluir una foto o ilustración simpática, si es posible.
+
+Portafolio: Muestra una compilación de tus mejores trabajos.
+Sección de portafolio que tiene los enlaces a tus proyectos.
+
+Acerca de mi: Página que resume tu historia personal.
+Es importante tener una sección donde resumas quién eres y qué estás buscando.
+
+
+Aprovecha para hablar de tu pasión por tu trabajo/industria.
+
+
+Recuerda contar tu historia y mostrar tu crecimiento como desarrollador. A la gente le interesa el viaje, no solo el resultado final.
+
+Sección de CV: Resumen de logros académicos y profesionales.
+Es importante tener una sección de CV con el resumen de los logros académicos y profesionales.
+
+
+Incluir cualquier curso, certificación o autoaprendizaje realizado (incluida la capacitación de Generation) demuestra tu compromiso de mantenerte al día en tu campo.
+
+
+Relacionar tus logros académicos con aplicaciones prácticas (cómo has usado los conocimientos).
+
+
+Describir tu experiencia profesional relevante.
+
+
+Incluir tus habilidades (técnicas y de comportamiento).
+
+Sección de Blog: Publicaciones donde se dan a conocer temas relevantes.
+Es muy recomendable contar con una sección de blog donde dar a conocer temas relevantes.
+
+
+Publicar contenido como: tutoriales sobre temas relacionados con Java, proyectos personales, mejores prácticas, soluciones a problemas comunes, últimas tendencias o actualizaciones en el ecosistema Java, comparación de herramientas, experiencias personales o lecciones aprendidas, etc.
+
+
+
+Hacer esto al menos una vez a la semana.
+
+Mejores Prácticas para la Sección de Portafolio
+
+Proyectos personales
+Incluir proyectos personales. Esto demuestra pasión y motivación.
+
+Proyectos colaborativos
+Incluir proyectos colaborativos, mencionando a los colaboradores del proyecto.
+
+
+Destacar tus contribuciones específicas al proyecto.
+
+Descripción
+Incluir una descripción que resuma el proyecto en pocas palabras, destacando el propósito, el problema que resuelve y el contexto en el que se desarrolló.
+
+
+Resaltar los desafíos enfrentados durante el desarrollo del proyecto y cómo se resolvieron.
+
+
+Indicar las características principales del proyecto, destacando aquellas que demuestran habilidades específicas.
+
+
+Indicar las tecnologías, lenguajes de programación, marcos de trabajo y herramientas utilizadas en el proyecto.
+
+Código fuente
+Incluir un enlace al repositorio de código fuente, preferiblemente en GitHub, GitLab u otra plataforma similar.
+
+El código debe estar limpio, bien documentado y ser fácil de mantener. Cumplir las normas de codificación es crucial. 
+
+Capturas de pantalla o demostraciones
+Incluir imágenes, videos o enlaces a demos en vivo que muestren el proyecto en acción.
+
+Calidad vs. cantidad
+El portafolio debe reflejar tus intereses, metas y fortalezas. No es necesario incluir todos los proyectos en los que has trabajado. Enfócate en los proyectos que son originales y/o relevantes.
+
+Un buen proyecto activo y completo es mejor que varios proyectos abandonados o incompletos.
+
+
+
+
+
+
+
+
