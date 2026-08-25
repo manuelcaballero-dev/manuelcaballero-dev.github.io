@@ -32,3 +32,50 @@ if (window.gsap && window.ScrollTrigger && !window.matchMedia('(prefers-reduced-
     gsap.from(element, { opacity: 0, y: 24, duration: 0.65, ease: 'power2.out', scrollTrigger: { trigger: element, start: 'top 88%', once: true } });
   });
 }
+
+// Seleccionamos TODOS los contenedores de carrusel en la página
+const carousels = document.querySelectorAll('.carousel-container');
+
+carousels.forEach((carousel) => {
+  // Buscamos los elementos INTERNOS de CADA carrusel individual
+  const track = carousel.querySelector('.carousel-track');
+  const slides = Array.from(track.children);
+  const prevBtn = carousel.querySelector('.carousel-btn.prev');
+  const nextBtn = carousel.querySelector('.carousel-btn.next');
+  const dotsContainer = carousel.querySelector('.carousel-dots');
+
+  let currentIndex = 0;
+
+  // Generar los puntos de navegación para este carrusel
+  slides.forEach((_, index) => {
+    const dot = document.createElement('div');
+    dot.classList.add('dot');
+    if (index === 0) dot.classList.add('active');
+    dot.addEventListener('click', () => goToSlide(index));
+    dotsContainer.appendChild(dot);
+  });
+
+  const dots = carousel.querySelectorAll('.dot');
+
+  function updateCarousel() {
+    track.style.transform = `translateX(-${currentIndex * 100}%)`;
+    dots.forEach((dot, index) => {
+      dot.classList.toggle('active', index === currentIndex);
+    });
+  }
+
+  function goToSlide(index) {
+    currentIndex = index;
+    updateCarousel();
+  }
+
+  nextBtn.addEventListener('click', () => {
+    currentIndex = (currentIndex + 1) % slides.length;
+    updateCarousel();
+  });
+
+  prevBtn.addEventListener('click', () => {
+    currentIndex = (currentIndex - 1 + slides.length) % slides.length;
+    updateCarousel();
+  });
+});
