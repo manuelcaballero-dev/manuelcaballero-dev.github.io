@@ -416,7 +416,7 @@
  }
 
  /* Imagen directa (sin carrusel): se adapta a su proporción natural */
- .project-image > img {
+ .project-image>img {
      display: block;
      width: 100%;
      height: auto;
@@ -425,7 +425,7 @@
      transition: transform .5s ease
  }
 
- .project:hover .project-image > img {
+ .project:hover .project-image>img {
      transform: scale(1.025);
      /* transform-origin center evita desplazamientos al hacer zoom */
      transform-origin: center
@@ -498,13 +498,13 @@
 
  .text-link {
      color: var(--accent);
-     font-size: .8rem ;
+     font-size: .8rem;
      font-weight: 800;
      margin-top: auto;
      text-decoration: none;
      display: flex;
      gap: .8rem 1.5rem;
-     
+
  }
 
  .text-link:hover {
@@ -652,10 +652,6 @@
          max-width: 290px
      }
 
-     .scroll-cue {
-         display: none
-     }
-
      .section,
      .contact-section {
          padding-bottom: 5rem;
@@ -734,7 +730,7 @@
      display: block
  }
 
- 
+
  .carousel-btn {
      position: absolute;
      top: 50%;
@@ -786,9 +782,9 @@
      transform: scale(1.2);
  }
 
-/* El carrusel dentro de project-image NO debe forzar height: 100%.
+ /* El carrusel dentro de project-image NO debe forzar height: 100%.
    Debe adaptarse a la altura natural de las imágenes (su aspect-ratio). */
-.project-image .carousel-container {
+ .project-image .carousel-container {
      height: auto;
      max-width: 100%
  }
@@ -796,4 +792,3 @@
  .project-image .carousel-track {
      height: auto
  }
-
