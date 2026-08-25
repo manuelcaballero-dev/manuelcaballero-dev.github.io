@@ -486,11 +486,6 @@
      margin-top: 1.5rem
  }
 
- /* Elimina aspect-ratio forzado: el contenedor debe adaptarse a la proporción natural de la imagen/carrusel */
- .project-compact .project-image {
-     /* aspect-ratio: 16/8;  ← ELIMINADO: forzaba 2:1 deformando capturas */
- }
-
  .project-compact .project-body {
      display: flex;
      flex: 1;
